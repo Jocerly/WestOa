@@ -1,0 +1,6 @@
+include ':app'
+include ':WestOaPlug'
+include ':CordovaLib'
+
+project(':WestOaPlug').projectDir = new File('../WestOaPlug\\platforms\\android\\app')
+project(':CordovaLib').projectDir = new File('../WestOaPlug\\platforms\\android\\CordovaLib')

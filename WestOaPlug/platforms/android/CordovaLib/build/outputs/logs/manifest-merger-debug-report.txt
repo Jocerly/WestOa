@@ -1,0 +1,31 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml:19:1-22:42
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml:19:1-22:42
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml:19:1-22:42
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml:19:1-22:42
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml:19:1-22:42
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml:19:1-22:42
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml:19:1-22:42
+	package
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml:20:5-33
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml:22:5-30
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml:19:11-69
+	android:versionCode
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml:21:5-28
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml
+uses-sdk
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/CordovaLib/AndroidManifest.xml

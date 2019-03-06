@@ -1,0 +1,79 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:2:1-29:12
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:2:1-29:12
+	package
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:6:5-32
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml
+	android:hardwareAccelerated
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:4:5-39
+	xmlns:android
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:5:5-32
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml
+supports-screens
+ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:8:5-14:40
+	android:largeScreens
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:10:9-36
+	android:smallScreens
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:13:9-36
+	android:normalScreens
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:11:9-37
+	android:xlargeScreens
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:14:9-37
+	android:resizeable
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:12:9-34
+	android:anyDensity
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:9:9-34
+uses-permission#android.permission.INTERNET
+ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:15:5-67
+	android:name
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:15:22-64
+application
+ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:16:5-28:19
+	android:supportsRtl
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:19:9-35
+	android:label
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:18:9-41
+	android:hardwareAccelerated
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:17:9-43
+activity#com.west.oa.cordova.CordovaTestActivity
+ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:20:9-27:20
+	android:label
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:23:13-50
+	android:launchMode
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:24:13-43
+	android:windowSoftInputMode
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:26:13-55
+	android:configChanges
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:22:13-90
+	android:theme
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:25:13-75
+	android:name
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml:21:13-67
+uses-sdk
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/work/cordovaApp/WestOa/WestOaPlug/platforms/android/app/src/main/AndroidManifest.xml
